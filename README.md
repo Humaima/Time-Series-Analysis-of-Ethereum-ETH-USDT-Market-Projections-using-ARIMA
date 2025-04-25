@@ -1,4 +1,5 @@
-# Ethereum (ETH) Price Forecasting with ARIMA  
+# Ethereum (ETH) Price Forecasting with ARIMA 
+![time-series-thumbnail](https://github.com/user-attachments/assets/c26fffac-06b9-4a23-9a2f-69b651cb7cc0)
 
 ## **🔍 Overview**  
 Time series analysis of ETH/USDT prices (2020-2023) using ARIMA to forecast trends.  
